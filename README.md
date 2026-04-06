@@ -1,33 +1,20 @@
-\# RavenStack: Synthetic SaaS Dataset (Multi-Table)
+# SaaS Growth Analytics Dashboard
 
+4-page Power BI dashboard analyzing churn risk, 
+MRR trends, feature adoption, and support 
+operations for a B2B SaaS company.
 
+## Dataset
+- 500 accounts
+- 5,000 subscriptions  
+- 25,000 feature events
+- Source: Kaggle (Rivalytics)
 
-\*\*Author:\*\* River @ Rivalytics  
+## Live Dashboard
+[View on Novypro](#) -- link coming soon
 
-\*\*Credit Requirement:\*\* You may use or remix this dataset for educational or portfolio purposes, but please credit the original author.  
-
-\*\*Blog:\*\* \[Building a Dataset Generator App Journey](https://rivalytics.medium.com)  
-
-\*\*License:\*\* MIT-like (fully synthetic, no PII)  
-
-\*\*Refresh Interval:\*\* Monthly  
-
-\*\*Complexity:\*\* Capstone-level (multi-table, event-driven, time-sensitive)  
-
-\*\*Data Format:\*\* CSV  
-
-\*\*Row Volume:\*\*
-
-\- accounts – 500
-
-\- subscriptions – 5,000
-
-\- feature\_usage – 25,000
-
-\- support\_tickets – 2,000
-
-\- churn\_events – 600
-
+## Tools
+Power BI, DAX, CSV
 
 
 ---
